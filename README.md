@@ -5,7 +5,7 @@ Note: Pattern names are obfuscated in the file and class names.
 
 ### But, Why?
 * As of now, it is impossible to find a single repository which has good samples of all design patterns. Trying to fix it.
-* I needed a good collection for my [app](http://sleepy-earth-69095.herokuapp.com/quiz) (**caution:** Under construction)
+* I needed a good collection for my [app](http://pluckdp.theox.in)
 
 ### Future
 * Whenever I come across a good snippet, I will be adding to this collection.
