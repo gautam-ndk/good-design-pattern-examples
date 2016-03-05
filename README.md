@@ -9,7 +9,7 @@ Note: Pattern names are obfuscated in the file and class names.
 
 ### Future
 * Whenever I come across a good snippet, I will be adding to this collection.
-* Planning to maintain ruby as the source for these snippets. I might use [quine-relay](https://github.com/mame/quine-relay) to convert the snippets to other languages.
+* Planning to maintain ruby as the source for these snippets. I might use convert the snippets to other languages in the future.
 
 ### Contribution
 Please send PR. 
