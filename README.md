@@ -1,12 +1,15 @@
+
 Curated list of good and easy to understand design pattern examples in ruby.
 
+Note: Pattern names are obfuscated in the file and class names.
+
 ### But, Why?
-* It is difficult to find good code snippets that depict the patterns.
-* I needed a good collection for my [app](http://sleepy-earth-69095.herokuapp.com/quiz) (CAUTION: Under construction)
+* As of now, it is impossible to find a single repository which has good samples of all design patterns. Trying to fix it.
+* I needed a good collection for my [app](http://pluckdp.theox.in)
 
 ### Future
 * Whenever I come across a good snippet, I will be adding to this collection.
-* Planning to maintain ruby as the source for these snippets. I might use [quine-relay](https://github.com/mame/quine-relay) to convert the snippets to other languages.
+* Planning to maintain ruby as the source for these snippets. I might use convert the snippets to other languages in the future.
 
 ### Contribution
 Please send PR. 
