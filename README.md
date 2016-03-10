@@ -19,4 +19,9 @@ Please send PR.
 
 * https://github.com/nslocum/design-patterns-in-ruby
 * https://github.com/TheBlasfem/ruby-patterns
+* https://github.com/emilsoman/design-patterns-ruby
+* https://github.com/adomokos/DesignPatterns-Ruby
+* https://github.com/tutsplus/gof-design-patterns-ruby
+* https://github.com/ryanjm/ruby-design-patterns
+
 
