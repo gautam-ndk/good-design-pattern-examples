@@ -1,9 +1,9 @@
 require_relative 'task'
 require_relative 'liquid_task'
 require_relative 'mix_task'
-require_relative 'composite_task'
+require_relative 'pattern_task'
 
-class BatterTask < CompositeTask
+class BatterTask < PatternTask
 	def initialize
 		super('Make Batter')
 		@sub_tasks = []

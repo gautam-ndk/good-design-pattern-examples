@@ -1,6 +1,6 @@
 require_relative 'task'
 
-class CompositeTask < Task
+class PatternTask < Task
 	def initialize(name)
 		super(name)
 		@sub_tasks = []
